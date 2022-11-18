@@ -1,0 +1,42 @@
+#textoSobreEmpresa{
+  color: rgb(0, 68, 102);
+  margin-left: 20px;
+}
+#sobreEmpresa{
+  display: flex;
+}
+#imgSobreEmpresa{
+  margin: 10px 30px;
+  margin-top: 45px;
+}
+#sobreProjeto{
+  display: flex;
+  margin-bottom: 50px;
+}
+#textoProjeto{
+  color: rgb(0, 68, 102);
+  margin-left: 20px;
+  margin-right: 45px;
+  margin-top: 120px;
+}
+#imgProjeto{
+  margin: 10px 30px;
+  margin-top: 45px;
+}
+hr{
+  color: rgb(0, 68, 102);
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+#loginNav{
+  margin-left: 670px;
+}
+
+#formLogin{
+  padding: 10px;
+}
+#btnLogin{
+  background-color: rgb(0, 68, 102);
+  border: 0;
+}
